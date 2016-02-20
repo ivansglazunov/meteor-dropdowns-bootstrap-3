@@ -18,3 +18,8 @@ You can use the `dropdownBootstrap` template exactly the same as the original te
     content
 {{/dropdownBootstrap}}
 ```
+
+## Versions
+
+### 0.0.1
+* popover-dropdown max-width fix (need limiter-div inside)
